@@ -1,0 +1,23 @@
+h1 {
+	color: #FF0000;
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border:5px solid purple;
+}
+/*border: width, style, color*/
+
+li {
+	color: rgb(68,0,100);
+}
+h4 {
+	background: rgb(255,100,80);
+	/*color:rgba(11, 99, 150, .6);*/
+}
+body {
+/*	background: url(https://static.tumblr.com/a8ac7122de739f366da937814b04fd49/gfuzg1c/skRn7z2x9/tumblr_static_tumblr_static__640.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink; 
+	
